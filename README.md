@@ -1,1 +1,1 @@
-# deep_basic
+# CNN 원리
